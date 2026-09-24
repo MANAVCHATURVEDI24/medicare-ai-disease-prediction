@@ -1,0 +1,45 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Trained Models
+*.joblib
+# *.pkl
+# Track trained models for the project
+!models/diabetes_model.pkl
+!models/diabetes_scaler.pkl
+!models/anemia_model.pkl
+!models/anemia_scaler.pkl
+
+# Environment Variables
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Temporary uploads
+temp_uploads/
+
+# React build
+frontend/dist/
